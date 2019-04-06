@@ -1,0 +1,7 @@
+C:\Users\RODRIGO\source\repos\Enigma3.0\Enigma3.0\bin\Debug\Enigma3.0.exe.config
+C:\Users\RODRIGO\source\repos\Enigma3.0\Enigma3.0\bin\Debug\Enigma3.0.exe
+C:\Users\RODRIGO\source\repos\Enigma3.0\Enigma3.0\bin\Debug\Enigma3.0.pdb
+C:\Users\RODRIGO\source\repos\Enigma3.0\Enigma3.0\obj\Debug\Enigma3.0.csprojAssemblyReference.cache
+C:\Users\RODRIGO\source\repos\Enigma3.0\Enigma3.0\obj\Debug\Enigma3.0.csproj.CoreCompileInputs.cache
+C:\Users\RODRIGO\source\repos\Enigma3.0\Enigma3.0\obj\Debug\Enigma3.0.exe
+C:\Users\RODRIGO\source\repos\Enigma3.0\Enigma3.0\obj\Debug\Enigma3.0.pdb
